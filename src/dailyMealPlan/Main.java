@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Main {
 
+    // program has been committed to GIT
     public static void main(String[] args) {
 	// Call getTotalWeeks
         int numWeeks = getTotalWeeks();
